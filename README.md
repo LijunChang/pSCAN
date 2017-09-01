@@ -8,7 +8,7 @@ $ make
 
 # Usage
 ```sh
-$ ./pscan graph_directory epsilon mu output[optional]
+$ ./pscan {graph_directory} {epsilon} {mu} output[optional]
 ```
 
 # Note
